@@ -3,7 +3,7 @@
 Simulation code and figures for the paper
 
 > **Photonic Loop Memory with Logged-Displacement Rollback and Digital-Twin Calibration for Continuous-Variable Quantum Communication**
-> Sanjit Krishna and Himanshu Pandey, Department of Physics, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India.
+> Sanjit Krishna and Dr.Himanshu Pandey, Department of Physics, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India.
 
 A preliminary version of this work: S. Krishna, *A Reversible Continuous-Variable Photonic Memory Architecture Based on Displacement-Evolved Coherent-State Dynamics*, [arXiv:2607.18702](https://arxiv.org/abs/2607.18702).
 
