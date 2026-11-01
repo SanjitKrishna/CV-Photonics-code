@@ -62,8 +62,7 @@ The model is an amplitude-level description with Gaussian noise, so the results 
 ## Files
 
 ```
-cv_final_simulations.py   all simulations and figures
-requirements.txt          numpy, matplotlib
+cv_simulations.py   all simulations and figures
 README.md                 this file
 ```
 
